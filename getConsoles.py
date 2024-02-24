@@ -30,14 +30,14 @@ results_str = ', '.join(results)
 
 print(results_str)
 
-create_table_query = f"CREATE TABLE platforms (id INTEGER PRIMARY KEY, {results_str});"
+create_table_query = f"CREATE TABLE IF NOT EXISTS platforms (id INTEGER PRIMARY KEY, {results_str});"
 
 cursor.execute(create_table_query)
 
 conn.commit()
 conn.close()
 
-#with open('platforms.csv', 'w', newline='') as csvfile:
-#    writer = csv.writer(csvfile)
-#    writer.writerow(['Platform'])
-#    writer.writerows(map(lambda x: [x], results))
+with open('platforms.csv', 'w', newline='') as csvfile:
+    writer = csv.writer(csvfile)
+    writer.writerow(['Platform'])
+    writer.writerows(map(lambda x: [x], results))
