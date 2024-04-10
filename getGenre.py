@@ -40,7 +40,8 @@ for row in rows:
             for e in div:
                 if 'genre' in e.get_text().lower():
                     txt = e.get_text().lower()
-                    genreTxt = txt[txt.find(':')+1].strip()
+                    genreTxt = txt[txt.find(':')+1:].strip()
+                    print(genreTxt)
                     cursor.execute('''INSERT INTO genres 
                     (game_id, genre) VALUES (?, ?);
                     ''', (row[0], genreTxt))
