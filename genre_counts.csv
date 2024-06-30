@@ -1,0 +1,276 @@
+count(game_genre.genre_id),genre_id,genre_name
+14058,2,action
+11954,3,adventure
+7682,4,role-playing
+5869,10,puzzle
+5691,249,shoote
+5690,7,shooter
+5349,31,strategy
+5044,12,platform
+4786,1,simulation
+4216,6,first-person
+3221,169,rts
+3220,131,sport
+3218,13,sports
+3059,46,tactical
+3046,19,visual novel
+2705,45,strategy/tactical
+2696,23,third-person
+2405,105,driving
+2402,8,racing/driving
+2178,9,top-down
+1952,20,scrolling
+1947,30,real-time
+1943,27,side
+1733,44,turn-based
+1707,28,point-and-click
+1526,51,horror
+1386,220,virtual reality
+1237,68,fighting
+1167,18,arcade
+1103,52,survival
+818,11,music
+793,81,art
+773,123,rhythm
+765,65,hidden object
+748,29,text
+733,67,music/rhythm
+671,158,card
+663,53,massively multiplayer
+659,14,card game
+645,90,board game
+626,252,beat
+621,63,beat em up
+575,15,roguelike
+526,25,open world
+502,71,party
+435,42,compilation
+379,70,tower defense
+363,49,survival horror
+358,54,educational
+356,37,flight
+354,24,on-rails
+342,94,hack and slash
+334,170,combat
+306,78,multidirectional
+303,39,sandbox
+300,110,management
+286,97,interactive art
+286,64,stealth
+285,59,isometric
+225,32,city-building
+155,87,incremental
+153,26,pinball
+133,35,flight combat
+116,41,trivia
+109,38,vehicular combat
+108,62,first-person shooter
+107,74,rpg
+85,83,battle arena
+79,22,third-person shooter
+74,17,platformer
+73,76,breakout
+70,104,fmv
+68,101,car combat
+66,192,social
+62,121,full motion video (fmv)
+60,47,action-adventure
+58,146,fitness
+51,96,indie
+36,165,moba
+34,93,real-time tactics
+33,5,action rpg
+32,95,casual
+28,34,shoot 'em up
+26,103,tactical role-playing
+24,157,simulator
+24,124,exercise
+22,193,rail shooter
+21,108,family
+21,99,tactical rpg
+19,77,tactical shooter
+19,58,run and gun
+12,112,platforming
+12,40,flight simulation
+11,148,flight simulator
+11,129,action role-playing
+10,248,space simulation
+10,182,space combat
+10,48,side-scroller
+9,199,mmorpg
+9,119,light gun
+9,117,turn-based tactics
+8,130,versus fighting
+8,125,first person
+8,109,light gun shooter
+8,36,combat flight simulator
+7,128,space combat sim
+7,92,combat simulator
+7,86,role-playing game
+6,196,card battle
+6,161,multi-directional shooter
+6,116,space combat simulator
+6,84,graphic adventure
+5,264,third person
+5,200,2d action platformer
+5,197,role playing
+5,137,life simulation
+5,66,first person shooter
+4,223,war
+4,217,vehicle simulation
+4,198,psychological horror
+4,191,wrestling
+4,134,dungeon crawl
+4,85,point-and-click adventure
+3,273,artillery
+3,246,point and click
+3,216,action adventure
+3,207,stealth action
+3,186,maze
+3,177,puzzle game
+3,171,third-person action-adventure
+3,152,grand strategy
+3,139,construction
+3,118,wargame
+3,16,various
+2,274,professional wrestling
+2,263,third/first person shooter
+2,254,real time strategy
+2,245,platform game
+2,215,computer role-playing
+2,205,collectible card game
+2,204,stealth-based game
+2,201,mecha
+2,195,platform/puzzle
+2,184,game show
+2,183,mystery
+2,175,cinematic platformer
+2,173,construction and management simulation
+2,164,rhythm game
+2,159,tactical role-playing game
+2,154,extreme sports
+2,149,dungeon crawler
+2,143,god game
+2,140,third person shooter
+2,136,digital pet
+2,133,strategy-rpg
+2,114,adventure game
+2,113,mech simulator
+2,102,vehicle combat
+2,89,stealth game
+2,82,top-down shooter
+2,80,action shooter
+2,56,third-person action adventure
+2,55,action role-playing game
+1,276,puzzle & cards
+1,275,brawler
+1,272,steampunk
+1,271,western
+1,270,console rpg
+1,269,twin stick shooter
+1,268,first-person adventure
+1,267,medical simulation
+1,266,action role-playing (hack and slash)
+1,265,aerial combat
+1,262,city-building game
+1,261,mini-game compilation
+1,260,art game
+1,259,interactive fiction
+1,258,console role-playing
+1,257,historic action-adventure
+1,256,shooters
+1,255,historical real-time
+1,253,traditional soccer
+1,251,http://www.cobramobile.com/
+1,250,arcade shooter
+1,247,date simulation
+1,244,submarine simulator
+1,243,space-shooter
+1,242,side scrolling
+1,241,fishing
+1,240,action/ adventure-puzzle
+1,239,emergent
+1,238,psychological thriller
+1,237,anazign
+1,236,sidescroller
+1,235,professional wrestling fighting
+1,234,beat-em-up
+1,233,comedy-adventure
+1,232,puzzle rpg
+1,231,tbs
+1,230,http://prinnies.com/
+1,229,space simulator
+1,228,arena fighting
+1,227,sci-fi puzzle-platform game
+1,226,business simulation game
+1,225,multidirectional shooter
+1,224,edutainment
+1,222,third person tactical shooter
+1,221,fps
+1,219,strategy rpg
+1,218,flying platformer
+1,213,action driving
+1,212,beat'em up
+1,211,crossover
+1,210,adventure/pet simulator
+1,209,turn-based role-playing
+1,208,first-person shooter and puzzle
+1,206,turn-based tactical
+1,203,third-person shooter sandbox
+1,202,arcade soccer
+1,194,puzzle platforming
+1,190,sports game
+1,189,kickboxing
+1,188,third person action puzzle
+1,187,2d versus fighting
+1,185,3d platformer
+1,181,vertical shooter
+1,180,city-builder
+1,179,first-peson
+1,178,real-time tactical rpg
+1,176,real-time grand strategy
+1,174,strategy/tactical/tower defense
+1,172,farm simulation
+1,168,shooting
+1,167,rhythm simulation
+1,166,2d weapon based fighting
+1,163,medieval fantasy action
+1,162,strategy side-scroller
+1,160,combat simulation
+1,156,hack-and-slash
+1,155,pub games
+1,153,virtual pet
+1,151,rts/rpg
+1,150,text adventure
+1,147,4x
+1,145,tactical action
+1,144,computer role-playing game
+1,142,science fiction
+1,141,fantasy first-person shooter
+1,138,side scroller
+1,135,kart racer
+1,132,minigames
+1,127,sci-fi action-rpg
+1,126,action/platform
+1,122,family games
+1,120,mini-games
+1,115,steath
+1,111,adventure.
+1,107,quiz
+1,106,music/fighting
+1,100,american football
+1,98,fighting game
+1,91,space trading
+1,88,action-adventure game
+1,79,mecha simulation
+1,75,light-gun shooter
+1,73,augmented reality
+1,72,submarine adventure
+1,69,life simulation game
+1,61,3-d
+1,60,shoot-em-up
+1,57,history
+1,50,arcade/shoot 'em up
+1,43,fighting action
+1,33,shoot em' up
+1,21,vertical scrolling shooter
